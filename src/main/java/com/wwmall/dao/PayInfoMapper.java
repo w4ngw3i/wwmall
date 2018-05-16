@@ -1,5 +1,6 @@
 package com.wwmall.dao;
 
+
 import com.wwmall.pojo.PayInfo;
 
 public interface PayInfoMapper {
